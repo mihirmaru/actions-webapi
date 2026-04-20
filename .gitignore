@@ -1,0 +1,5 @@
+.vs
+/DotNetAzureDemo.Api/bin/Debug/net8.0
+/DotNetAzureDemo.Api/obj
+/DotNetAzureDemo.Tests/bin/Debug/net8.0
+/DotNetAzureDemo.Tests/obj
